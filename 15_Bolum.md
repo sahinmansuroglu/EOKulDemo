@@ -1,6 +1,8 @@
-Not İşlemlerinin Tasarımı-2 
+### Not İşlemlerinin Tasarımı-2  ###
 
-(Veritabanında CRUD İşlemileri İçin gerekli Metotların Oluşturulması)
+> (Veritabanında CRUD İşlemileri İçin gerekli Metotların Oluşturulması)
+
+```csharp
 using Dapper;
 using EOkulProjesi.Models;
 using EOkulProjesi.ViewModel;
@@ -136,3 +138,6 @@ namespace EOkulProjesi.VtIslem
 
 
 }
+
+
+```
